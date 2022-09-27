@@ -1,6 +1,10 @@
 import React from "react";
 import {BrowserRouter,Routes,Route,Link} from 'react-router-dom';
+import '../Navegacion.css';
 import Inicio from "./Inicio";
+import Reglas from "./Reglas";
+import Desarrolladores from "./Desarrolladores";
+import Juego from "./Juego";
 
 class Navegacion extends React.Component{
     render(){
@@ -11,17 +15,16 @@ class Navegacion extends React.Component{
             <h1 className="Titulo">AHORCADITO</h1>
             <nav>  
             <Link to ='/' className = "Boton" >Inicio</Link>
-            <Link to ='/juego' className = "Boton" >Jugar</Link>
             <Link to ='/reglas' className = "Boton" >Reglas</Link>
             <Link to ='/desarrolladores' className = "Boton" >Desarrolladores</Link>
             </nav>
         </div>
-
+    
         <Routes>
             <Route path = "/" element= {<Inicio/>}/>
-            <Route path = "juego" element= {<Inicio/>}/>
-            <Route path = "reglas" element= {<Inicio/>}/>
-            <Route path = "desarrolladores" element= {<Inicio/>}/>
+            <Route path = "juego" element= {<Juego/>}/>
+            <Route path = "reglas" element= {<Reglas/>}/>
+            <Route path = "desarrolladores" element= {<Desarrolladores/>}/>
         </Routes>
      </BrowserRouter>
      </>
