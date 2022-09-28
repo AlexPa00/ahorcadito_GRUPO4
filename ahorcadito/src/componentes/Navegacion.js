@@ -4,7 +4,7 @@ import '../Navegacion.css';
 import Inicio from "./Inicio";
 import Reglas from "./Reglas";
 import Desarrolladores from "./Desarrolladores";
-import Juego from "./Juego";
+import App from "../App";
 
 class Navegacion extends React.Component{
     render(){
@@ -22,7 +22,7 @@ class Navegacion extends React.Component{
     
         <Routes>
             <Route path = "/" element= {<Inicio/>}/>
-            <Route path = "juego" element= {<Juego/>}/>
+            <Route path = "juego" element= {<App/>}/>
             <Route path = "reglas" element= {<Reglas/>}/>
             <Route path = "desarrolladores" element= {<Desarrolladores/>}/>
         </Routes>
