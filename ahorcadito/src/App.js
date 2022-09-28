@@ -5,6 +5,8 @@ import React, { Component } from 'react';
 import styled from 'styled-components';  
 
 const Appstyled = styled.main`
+padding:50px;
+
 body{
   margin:0;
   font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
