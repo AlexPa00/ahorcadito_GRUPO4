@@ -10,9 +10,22 @@ import "./reglas.css";
 class Reglas extends React.Component{
     render(){
         return(
+
+            <main >
  
-         <main >
- 
+ <section className='Animacion'>
+            <div className='Decoracion'></div>
+            <div className='Decoracion'></div>
+            <div className='Decoracion'></div>
+            <div className='Decoracion'></div>
+            <div className='Decoracion'></div>
+            <div className='Decoracion'></div>
+            <div className='Decoracion'></div>
+            <div className='Decoracion'></div>
+            <div className='Decoracion'></div>
+            <div className='Decoracion'></div>
+            <div className='Decoracion'></div>
+        </section>
 
          <div className="cards">
            
@@ -70,9 +83,7 @@ class Reglas extends React.Component{
   
           <p className="descripcion"> Si la figura del ahorcado se completa antes de que descubras la palabra,pierdes.</p>
           </div>
-
-    
-  
+ 
          </main> 
         )
     }
