@@ -5,11 +5,14 @@ import imagen3 from "../img/imagen3.jpg";
 import imagen4 from "../img/imagen4.jpg";
 import imagen5 from "../img/imagen5.jpg";
 import "./reglas.css";
+ 
 
 class Reglas extends React.Component{
     render(){
         return(
+ 
          <main >
+ 
 
          <div className="cards">
            
@@ -67,6 +70,8 @@ class Reglas extends React.Component{
   
           <p className="descripcion"> Si la figura del ahorcado se completa antes de que descubras la palabra,pierdes.</p>
           </div>
+
+    
   
          </main> 
         )

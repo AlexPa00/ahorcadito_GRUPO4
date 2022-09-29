@@ -17,16 +17,26 @@
     border-radius: 10px;
     box-shadow: 5px 5px 20px rgb(223, 90, 183);
     display: inline-block;
+    margin-left: 200px;
+ }
+
+ .cards:hover{
+    transform: translateY(-3%);
  }
 
  .cards2{
     width: 15%;
     margin: 40px;
-    
+
     background-color: rgb(251, 250, 252);
     border-radius: 10px;
     box-shadow: 5px 5px 20px rgb(142, 61, 180);
     display: inline-block;
+     margin-top: 60px; 
+ }
+
+ .cards2:hover{
+    transform: translateY(-3%);
  }
 
  .cards3{
@@ -36,6 +46,11 @@
     border-radius: 10px;
     box-shadow: 5px 5px 20px rgb(115, 117, 218);
     display: inline-block;
+    
+ }
+
+ .cards3:hover{
+    transform: translateY(-3%);
  }
 
  .cards4{
@@ -46,6 +61,11 @@
     border-radius: 10px;
     box-shadow: 5px 5px 20px rgb(248, 164, 67);
     display: inline-block;
+    margin-left: 390px;
+ }
+
+ .cards4:hover{
+    transform: translateY(-3%);
  }
 
  .cards5{
@@ -55,6 +75,11 @@
     border-radius: 10px;
     box-shadow: 5px 5px 20px rgb(75, 197, 96);
     display: inline-block;
+    
+ }
+
+ .cards5:hover{
+    transform: translateY(-3%);
  }
 
  .imagen{
@@ -67,9 +92,13 @@
 
  .titulo{
     text-align: center;
-    font-size: 5;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgb(68, 68, 68);
  }
 
  .descripcion{
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(92, 94, 94);
  }
