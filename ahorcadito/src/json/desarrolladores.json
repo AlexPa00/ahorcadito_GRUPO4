@@ -1,0 +1,44 @@
+[
+    {
+       "img":"../img/userrr.png",
+       "nombre":"Casandra Reina",
+       "edad":"XXXX",
+       "intereses":".........",
+       "Repositorio":"www."
+    },
+    {
+       "img":"./img/userrr.png",
+       "nombre":"Alexis Pacheco",
+       "edad":"XXXX",
+       "intereses":".........",
+       "Repositorio":"www."
+    },
+    {
+       "img":"./img/userrr.png",
+       "nombre":"Nerea Reina",
+       "edad":"XXXX",
+       "intereses":".........",
+       "Repositorio":"www."
+    },
+    {
+       "img":"./img/userrr.png",
+       "nombre":"Augusto Velazquez",
+       "edad":"XXXX",
+       "intereses":".........",
+       "Repositorio":"www."
+    },
+    {
+       "img":"./img/userrr.png",
+       "nombre":"Josue Gutierrez",
+       "edad":"XXXX",
+       "intereses":".........",
+       "repositorio":"https://github.com/josue008?tab=repositories"
+    },
+    {
+        "img":"./img/userrr.png",
+        "nombre":"Rodrigo Fines",
+        "edad":"XXXX",
+        "intereses":".........",
+        "Repositorio":"www."
+     }
+]

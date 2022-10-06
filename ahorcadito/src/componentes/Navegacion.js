@@ -3,7 +3,7 @@ import {BrowserRouter,Routes,Route,Link} from 'react-router-dom';
 import '../Navegacion.css';
 import Inicio from "./Inicio";
 import Reglas from "./Reglas";
-import Desarrolladores from "./Desarrolladores";
+import Info from "./Info";
 import App from "../App";
 
 class Navegacion extends React.Component{
@@ -16,7 +16,7 @@ class Navegacion extends React.Component{
             <nav>  
             <Link to ='/' className = "Boton" >Inicio</Link>
             <Link to ='/reglas' className = "Boton" >Reglas</Link>
-            <Link to ='/desarrolladores' className = "Boton" >Desarrolladores</Link>
+            <Link to ='/info' className = "Boton" >Desarrolladores</Link>
             </nav>
         </div>
     
@@ -24,7 +24,7 @@ class Navegacion extends React.Component{
             <Route path = "/" element= {<Inicio/>}/>
             <Route path = "juego" element= {<App/>}/>
             <Route path = "reglas" element= {<Reglas/>}/>
-            <Route path = "desarrolladores" element= {<Desarrolladores/>}/>
+            <Route path = "info" element= {<Info/>}/>
         </Routes>
      </BrowserRouter>
      </>
