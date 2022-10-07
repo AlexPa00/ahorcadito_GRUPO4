@@ -207,7 +207,9 @@
     animation-duration: 2s;
     background: rgb(57, 231, 86);
   }
-  
+
+ 
+ 
   @keyframes Animacion{
     0%{
       bottom: 0;
@@ -223,4 +225,6 @@
       bottom: 100vh;
       opacity: 0;
     }
+
+    
   }
