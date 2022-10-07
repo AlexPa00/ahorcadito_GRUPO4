@@ -70,11 +70,13 @@ input:focus{background-color:#fff}
 footer{
   width:100%;
   margin-top:5vh}
+
 .title{
   -webkit-text-stroke:2px #000;
   font-size:7vh;color:orange}
 
-.word{width:50%;
+.word{
+  width:50%;
   padding:2vh;
   margin:auto auto 2vh;
   -webkit-align-content:center;
@@ -82,9 +84,10 @@ footer{
   border-radius:5px}
 
 .redTxt{
-  color:red}
+  color:#ff0000}
+  
 .greenTxt,.redTxt{
-  -webkit-text-stroke:2px #000}
+  -webkit-text-stroke:2px #763b3b}
 
 .greenTxt{
   color:green}
