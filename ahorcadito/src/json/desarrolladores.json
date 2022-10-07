@@ -9,8 +9,8 @@
     {
        "img":"./img/userrr.png",
        "nombre":"Alexis Pacheco",
-       "edad":"XXXX",
-       "intereses":".........",
+       "edad":"22 Años",
+       "intereses":"Jugar VideosJuegos, hacer deporte y leer",
        "Repositorio":"www."
     },
     {
@@ -30,15 +30,15 @@
     {
        "img":"./img/userrr.png",
        "nombre":"Josue Gutierrez",
-       "edad":"XXXX",
-       "intereses":".........",
+       "edad":"22 Años",
+       "intereses":"Futbol, viciar y hacer de todo menos tarea",
        "repositorio":"https://github.com/josue008?tab=repositories"
     },
     {
-        "img":"./img/userrr.png",
+        "img":"./img/FinesRodrigo.png",
         "nombre":"Rodrigo Fines",
-        "edad":"XXXX",
-        "intereses":".........",
-        "Repositorio":"www."
+        "edad":"22 Años",
+        "intereses":"Futbol, jugar Videojuegos, leer, bailar y escuchar musica",
+        "Repositorio":"https://github.com/Rodrigooo08?tab=repositories"
      }
 ]
