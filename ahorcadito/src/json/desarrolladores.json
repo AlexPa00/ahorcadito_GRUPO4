@@ -1,6 +1,6 @@
 [
     {
-       "img":"../img/Nerea.jpeg",
+       "img":"../img/Nerea.jpg",
        "nombre":"Casandra Reina",
        "edad":"XXXX",
        "intereses":"Dibujar,videojuegos,leer, etc",
@@ -14,7 +14,7 @@
        "Repositorio":"https://github.com/AlexPa00"
     },
     {
-       "img":"./img/kassy.jpg",
+       "img":"./img/kassy.jpeg",
        "nombre":"Nerea Reina",
        "edad":"XXXX",
        "intereses":"Dibujar,videojuegos,leer, etc",
