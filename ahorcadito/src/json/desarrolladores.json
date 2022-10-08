@@ -1,23 +1,23 @@
 [
     {
-       "img":"../img/userrr.png",
+       "img":"../img/kassy.jpeg",
        "nombre":"Casandra Reina",
        "edad":"XXXX",
-       "intereses":".........",
+       "intereses":"Dibujar,videojuegos,leer, etc",
        "Repositorio":"https://github.com/CasandraReina"
     },
     {
-       "img":"./img/userrr.png",
+       "img":"./img/Alexis.jpeg",
        "nombre":"Alexis Pacheco",
        "edad":"22 Años",
        "intereses":"Jugar VideosJuegos, hacer deporte y leer",
        "Repositorio":"https://github.com/AlexPa00"
     },
     {
-       "img":"./img/userrr.png",
+       "img":"./img/Nerea.jpg",
        "nombre":"Nerea Reina",
        "edad":"XXXX",
-       "intereses":".........",
+       "intereses":"Dibujar,videojuegos,leer, etc",
        "Repositorio":"https://github.com/Reina-Nerea"
     },
     {
@@ -28,7 +28,7 @@
        "Repositorio":"www."
     },
     {
-       "img":"./img/userrr.png",
+       "img":"./img/josue.jpeg",
        "nombre":"Josue Gutierrez",
        "edad":"22 Años",
        "intereses":"Futbol, viciar y hacer de todo menos tarea",
